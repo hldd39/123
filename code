@@ -1,0 +1,6 @@
+email = "user123@example.com"
+phone_number = "555-555-5555"
+password =  'admin123'
+print("Virtual Email:", email)
+print("Virtual Phone Number:", phone_number)
+print("Virtual password:",password)
